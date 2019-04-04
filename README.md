@@ -1,6 +1,6 @@
 # WRITEUPS
 
-Write-ups by vipul999ujawane ([x0rc3r3rs](https://ctftime.org/team/66247))
+Write-ups by green_panda999 ([x0rc3r3rs](https://ctftime.org/team/66247))
 ## Events
 
 ### 2019
