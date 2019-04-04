@@ -23,7 +23,7 @@ Write-ups by vipul999ujawane ([x0rc3r3rs](https://ctftime.org/team/66247))
 
 ### Encrypt CTF
 ---
-[Journey to the center of the file](Encrypt_CTF/File.md)
+[Journey to the center of the file](Encrypt_CTF/FIle.md)
 
 [Journey to the center of the file 2](Encrypt_CTF/File2.md)
 
