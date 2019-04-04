@@ -1,1 +1,6 @@
 theme: jekyll-theme-hacker
+title: Writeups
+author: MyName
+plugins:
+  - jekyll-seo-tag
+google_analytics: UA-87625453-3
