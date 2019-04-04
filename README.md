@@ -35,8 +35,6 @@ Write-ups by green_panda999 ([x0rc3r3rs](https://ctftime.org/team/66247))
 
 [PWN 1](Encrypt_CTF/pwn1.md)
 
-[PWN 2](Encrypt_CTF/pwn2.md)
-
 [Into The Black](Encrypt_CTF/intotheblack.md)
 
 [Julius,Q2Flc2FyCg==](Encrypt_CTF/julius.md)
