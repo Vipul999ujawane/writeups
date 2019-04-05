@@ -1,4 +1,4 @@
-## PWN 1
+## PWN 2
 ### Category : Pwning/Binary Exploitaition
 
 Not sure what the intended solution was, but I could solve the solution using a standard ret2libc exploit.
