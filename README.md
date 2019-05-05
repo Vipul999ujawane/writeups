@@ -40,3 +40,16 @@ Write-ups by green_panda999 ([x0rc3r3rs](https://ctftime.org/team/66247))
 [Into The Black](Encrypt_CTF/intotheblack.md)
 
 [Julius,Q2Flc2FyCg==](Encrypt_CTF/julius.md)
+
+---
+
+### INSHACK CTF
+
+---
+[xHell](INSHack/xHell.md)
+
+[gFlag](INSHack/gFlag.md)
+
+[integerOver](INSHack/IntegerOver.md)
+
+[signed](INSHack/signed.md)
