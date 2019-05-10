@@ -1,6 +1,6 @@
 ### Rop Emporium
 ---
-[ROP Emporium]() contains challenges that require you to use ROP or Return Oriented Programming to exploit the binaries given. It contains 8 challenges, in both 32-bit and 64-bit formats. I'll attempt solving the 322-bit challenges in this series
+[ROP Emporium](https://ropemporium.com) contains challenges that require you to use ROP or Return Oriented Programming to exploit the binaries given. It contains 8 challenges, in both 32-bit and 64-bit formats. I'll attempt solving the 322-bit challenges in this series
 
 --- 
 
