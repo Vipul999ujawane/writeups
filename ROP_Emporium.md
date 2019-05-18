@@ -9,3 +9,5 @@
 [split](ROP_Emporium/split.md)
 
 [callme](ROP_Emporium/callme.md)
+
+[write4](ROP_Emporium/write4.md)
