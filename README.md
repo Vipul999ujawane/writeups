@@ -9,4 +9,6 @@ Write-ups by green_panda999 ([x0rc3r3rs](https://ctftime.org/team/66247))
 
 [2019](2019.md)
 
+[2020](2020.md)
+
 [Hack The Box](HTB.md)
