@@ -13,4 +13,6 @@ Write-ups by green_panda999 ([x0rc3r3rs](https://ctftime.org/team/66247))
 
 [2022](2022.md)
 
+[2023](2023.md)
+
 [Hack The Box](HTB.md)
